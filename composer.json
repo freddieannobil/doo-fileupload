@@ -1,0 +1,32 @@
+{
+    "name": "doowebdev/doo-fileupload",
+    "description": "File Upload",
+    "minimum-stability": "stable",
+    "homepage": "https://github.com/doowebdev/doo-fileupload",
+    "keywords": ["upload","upload png jpeg gif"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Freddie Annobil",
+            "homepage": "http://codecanyon.net/user/freddie77/portfolio",
+            "role": "Developer"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.4.0"
+    },
+
+    "autoload": {
+
+        "psr-4":{
+            "Doowebdev\\": "src"
+        }
+    }
+
+
+
+
+
+
+}
